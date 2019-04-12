@@ -15,3 +15,5 @@ def function():
   return a + b
 
 print(function())
+
+other_stuff = 1
